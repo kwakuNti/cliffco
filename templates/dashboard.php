@@ -6,24 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet" />
     <link rel="stylesheet" href="../public/css/dashboard.css" />
-    <title>Web Design Mastery | Flivan</title>
+    <title>Take Flight</title>
 </head>
 
 <body>
     <nav>
-        <div class="nav__logo">Flivan</div>
+        <div class="nav__logo">CliffCo Airways</div>
         <ul class="nav__links">
             <li class="link"><a href="#">Home</a></li>
-            <li class="link"><a href="#">About</a></li>
-            <li class="link"><a href="#">Offers</a></li>
-            <li class="link"><a href="#">Seats</a></li>
+            <li class="link"><a href="../templates/profile.php">Profile</a></li>
+            <li class="link"><a href="../templates/settings.php">Settings</a></li>
+            <li class="link"><a href="#">Book a flight</a></li>
             <li class="link"><a href="#">Destinations</a></li>
         </ul>
         <button class="btn">Contact</button>
     </nav>
     <header class="section__container header__container">
         <h1 class="section__header">Find And Book<br />A Great Experience</h1>
-        <img src="assets/header.jpg" alt="header" />
+        <img src="../assets/images/asset1.jpg" alt="header" />
     </header>
 
     <section class="section__container booking__container">
@@ -108,9 +108,9 @@
                 </p>
             </div>
             <div class="plan__image">
-                <img src="assets/plan-1.jpg" alt="plan" />
-                <img src="assets/plan-2.jpg" alt="plan" />
-                <img src="assets/plan-3.jpg" alt="plan" />
+                <img src="../assets/images/asset2.jpg" alt="plan" />
+                <img src="../assets/images/asset3.jpg" alt="plan" />
+                <img src="../assets/images/asset4.jpg" alt="plan" />
             </div>
         </div>
     </section>
