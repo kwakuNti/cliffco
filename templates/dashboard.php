@@ -13,11 +13,11 @@
     <nav>
         <div class="nav__logo">CliffCo Airways</div>
         <ul class="nav__links">
-            <li class="link"><a href="#">Home</a></li>
+            <li class="link"><a href="../templates/calender.php">Your Schedule</a></li>
             <li class="link"><a href="../templates/profile.php">Profile</a></li>
             <li class="link"><a href="../templates/settings.php">Settings</a></li>
-            <li class="link"><a href="#">Book a flight</a></li>
-            <li class="link"><a href="#">Destinations</a></li>
+            <li class="link"><a href="../templates/flight.php">Book a flight</a></li>
+            <li class="link"><a href="../templates/destination.php">Destinations</a></li>
         </ul>
         <button class="btn">Contact</button>
     </nav>
@@ -110,7 +110,7 @@
             <div class="plan__image">
                 <img src="../assets/images/asset2.jpg" alt="plan" />
                 <img src="../assets/images/asset3.jpg" alt="plan" />
-                <img src="../assets/images/asset4.jpg" alt="plan" />
+                <img src="../assets/images/assets4.jpg" alt="plan" />
             </div>
         </div>
     </section>

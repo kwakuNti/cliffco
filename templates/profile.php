@@ -27,7 +27,7 @@
                             <path fill="currentColor"
                                 d="M480 256a96 96 0 1 0-96-96 96 96 0 0 0 96 96zm48 32h-3.8c-13.9 4.8-28.6 8-44.2 8s-30.3-3.2-44.2-8H432c-20.4 0-39.2 5.9-55.7 15.4 24.4 26.3 39.7 61.2 39.7 99.8v38.4c0 2.2-.5 4.3-.6 6.4H592a48 48 0 0 0 48-48 111.94 111.94 0 0 0-112-112z">
                             </path>
-                        </svg><span>Connect</span></a><a href="#">
+                        </svg><span>Go Back</span></a><a href="../templates/dashboard.php">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                             <path fill="currentColor"
                                 d="M208 352c-41 0-79.1-9.3-111.3-25-21.8 12.7-52.1 25-88.7 25a7.83 7.83 0 0 1-7.3-4.8 8 8 0 0 1 1.5-8.7c.3-.3 22.4-24.3 35.8-54.5-23.9-26.1-38-57.7-38-92C0 103.6 93.1 32 208 32s208 71.6 208 160-93.1 160-208 160z">
@@ -52,8 +52,12 @@
                         <div class="button__border"></div>
                         <div class="button__bg"></div>
                         <p class="button__text">Settings</p>
-                        <p class="button__text">Go back</p>
                     </a></div>
+                <div class="button__border"></div>
+
+
+
+
             </div>
             <div class="bg">
                 <div><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
@@ -76,7 +80,7 @@
             </div>
         </div>
     </main>
-    <script src="./js/script.js"></script>
+    <script src="../public/js/profile.js"></script>
 
 </body>
 
